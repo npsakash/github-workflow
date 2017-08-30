@@ -1,6 +1,6 @@
 # github-workflow assignment
 
-Name: _______________________________________
+Name: Neal Sakash
 
 ## DUE: 31 Aug 2017
 
